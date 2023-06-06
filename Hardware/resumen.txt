@@ -1,0 +1,4 @@
+Microprocesador
+RAM 
+HDD 
+ROM

@@ -1,0 +1,6 @@
+cd [flag]  nos permite movernos entre carpetas con rutas absolutas o relativas
+mkdir [nom_carpeta]     crear directorios o carpetas
+touch [nom_arch]        crear archivos 
+mv [nom_archivi] [ruta/nuevo_nom]       nos permite mover archivos o renombralos
+rm [nom_archivo]        borrar archivos
+
