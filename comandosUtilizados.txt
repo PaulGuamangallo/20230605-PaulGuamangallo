@@ -1,0 +1,33 @@
+   45  code .
+   46  git init
+   47  git branch -M main
+   48  git remote add origin https://github.com/PaulGuamangallo/20230605-PaulGuamangallo.git
+   49  git remote -v
+   50  touch comandos.txt main.js index.html
+   51  git add .
+   52  git commit -m "commit 01 de Paul Guamangallo"
+   53  git status
+   54  git log
+   55  git push origin main 
+   56  git branch feature01
+   57  git checkout feature01
+   58  mkdir Terminal Hardware
+   59  touch Terminal/resumen.txt Hardware/resumen.txt
+   60  git add .
+   61  git status
+   62  git commit -m "commit 02 de Paul Guamangallo"
+   63  git push origin feature01
+   64  git branch feature02
+   65  git checkout feature02
+   66  git add .
+   67  git status
+   68  git commit -m "commit 03 de Paul Guamangallo"
+   69  git push origin feature02
+   70  git checkout main
+   71  history > comandos.txt
+   72  mv comandos.txt comandosUtilizados.txt
+   73  history > comandos.txt
+   74  history > comandosUtilizados.txt 
+   75  rm comandosUtilizados.txt
+   76  mv comandos.txt comandosUtilizados.txt
+   77  history 45 > comandosUtilizados.txt 
